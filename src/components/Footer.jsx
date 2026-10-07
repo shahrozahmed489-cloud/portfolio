@@ -32,38 +32,38 @@ const Footer = () => {
 
               <a
                 href="#"
-                className="w-10 h-10 flex items-center justify-center
+                className="w-10 h-10 flex text-blue-500 items-center justify-center
                 rounded-full bg-white hover:bg-[#d1cea3]
                 transition duration-300"
               >
-                <FaFacebook color="blue-300"/>
+                <FaFacebook/>
               </a>
 
               <a
                 href="#"
-                className="w-10 h-10 flex items-center justify-center
+                className="w-10 h-10 flex text-blue-600 items-center justify-center
                 rounded-full bg-white hover:bg-[#d1cea3]
                 transition duration-300"
               >
-                <FaLinkedin color="blue-200"/>
+                <FaLinkedin/>
               </a>
 
               <a
                 href="#"
-                className="w-10 h-10 flex items-center justify-center
+                className="w-10 h-10 flex text-red-500 items-center justify-center
                 rounded-full bg-white hover:bg-[#d1cea3]
                 transition duration-300"
               >
-                <SiGmail color="red-100"/>
+                <SiGmail/>
               </a>
 
               <a
                 href="#"
-                className="w-10 h-10 flex items-center justify-center
+                className="w-10 h-10 flex text-green-500 items-center justify-center
                 rounded-full bg-white hover:bg-[#d1cea3]
                 transition duration-300"
               >
-                <FaWhatsapp  color="green-300 "/>
+                <FaWhatsapp/>
               </a>
 
             </div>

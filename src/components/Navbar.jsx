@@ -83,7 +83,7 @@ const Navbar = () => {
 
             <button
               className="px-5 py-2.5 rounded-lg
-              bg-[#8B5036] text-white font-semibold
+              bg-[#8B5036] text-gray-900 font-semibold
               hover:bg-[#d1cea3]
               hover:shadow-lg
               transition duration-300"
